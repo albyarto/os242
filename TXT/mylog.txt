@@ -2,6 +2,15 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W01 20 L00 General, etc.
+ZCZC W01 100 L02 Attended Class
+ZCZC W01 120 L09 Weekly Assignments
+ZCZC W01 30 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 30 L62 Install Virtual Debian Guest
+ZCZC W01 100 L02 Attended Class
+ZCZC W01 60 L05 Quiz related including studying (Quiz 01)
+ZCZC W01 10 L41 TXT/mylog.txt related.
+
 ZCZC W00 10 L01 SCELE/Discord related
 ZCZC W00 100 L02 CLASSROOM related
 ZCZC W00 10 L03 Github related
