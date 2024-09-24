@@ -24,3 +24,17 @@ Understanding cybersecurity and cyberattacks
 * [The RSA Encryption Algorithm](https://youtu.be/4zahvcJ9glg)<br>
 A video explains the mechanisms behind the RSA encryption system.
 <br>
+
+### **Week 03**
+* [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+Learn the purpose of the most common Linux directories in 100 seconds
+
+* [Linux File System/Structure](https://www.youtube.com/watch?v=HbgzrKJvDRw)<br>
+A video explains Linux File System/Structure!
+
+* [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
+A website from geeksforgeeks that explains hierarchy structure of linux
+
+* [Introduction to mounting filesystems in Linux]( https://www.bleepingcomputer.com/tutorials/introduction-to-mounting-filesystems-in-linux/)<br>
+A website explains about what happens when you mount in Linux.
+<br>
