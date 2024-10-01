@@ -38,3 +38,11 @@ A website from geeksforgeeks that explains hierarchy structure of linux
 * [Introduction to mounting filesystems in Linux]( https://www.bleepingcomputer.com/tutorials/introduction-to-mounting-filesystems-in-linux/)<br>
 A website explains about what happens when you mount in Linux.
 <br>
+
+### **Week 04**
+* [Memory Adressing in C](https://www.w3schools.com/c/c_memory_address.php#:~:text=When%20a%20variable%20is%20created,stored%20in%20this%20memory%20address.)<br>
+A website from W3Schools about addressing system in C language
+
+* [Big and Little Endian in C](https://embetronicx.com/tutorials/p_language/c/little-endian-and-big-endian/)<br>
+A website explains big and little endian in C language
+<br>
