@@ -46,3 +46,11 @@ A website from W3Schools about addressing system in C language
 * [Big and Little Endian in C](https://embetronicx.com/tutorials/p_language/c/little-endian-and-big-endian/)<br>
 A website explains big and little endian in C language
 <br>
+
+### **Week 05**
+* [What is Virtual Memory?](https://www.youtube.com/watch?v=qlH4-oHnBb8)<br>
+A video about "What is virtual memory?" Indirection between the program's addresses and the RAM addresses. Mapping disk space into memory. Using indirection for program security and isolation.
+
+* [Physical & Logical Address](https://www.javatpoint.com/os-physical-and-logical-address-space)<br>
+A short article about physical and logical address with understandable explanation.
+<br>
