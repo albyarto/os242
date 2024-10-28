@@ -2,6 +2,18 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06 100 L02 Attended Class
+ZCZC W06 10 L11 Assignment #01
+ZCZC W06 10 L12 Assignment #02
+ZCZC W06 30 L13 Assignment #03
+ZCZC W06 30 L14 Assignment #04
+ZCZC W06 100 L70 Studying for other courses.
+ZCZC W06 20 L22 Linux CLI including tar, etc.
+ZCZC W06 15 L25 C-language including Make.
+ZCZC W06 30 L15 Assignment #05
+ZCZC W06 10 L41 TXT/mylog.txt related.
+ZCZC W06 10 L43 TXT/myrank.tex related, including peer review.
+
 ZCZC W05 10 L00 General, etc.
 ZCZC W05 100 L02 Attended Class
 ZCZC W05 100 L70 Studying for other courses
