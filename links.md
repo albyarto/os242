@@ -54,3 +54,14 @@ A video about "What is virtual memory?" Indirection between the program's addres
 * [Physical & Logical Address](https://www.javatpoint.com/os-physical-and-logical-address-space)<br>
 A short article about physical and logical address with understandable explanation.
 <br>
+
+### **Week 06**
+* [States of a Process in Operating System](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems)<br>
+The process goes through multiple stages from start to finish, with a minimum of five distinct states. While the state names aren’t standardized, the process can be in any of these stages during execution.
+
+* [Process States](https://www.javatpoint.com/os-process-states)<br>
+An awesome article explaining every process states. Let’s skim through it to get extra grasp on process states!
+
+* [Threads, Processes, and Dispatching](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lecture.php?topic=thread)<br>
+A good article about Threads and Processes.
+<br>
