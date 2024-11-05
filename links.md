@@ -65,3 +65,12 @@ An awesome article explaining every process states. Let’s skim through it to g
 * [Threads, Processes, and Dispatching](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lecture.php?topic=thread)<br>
 A good article about Threads and Processes.
 <br>
+
+### **Week 07**
+* [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
+The link contains an overview of what the process synchronization in OS is and how it works. The link also explains several approaches to solving critical section problems such as Peterson's solution, synchronization hardware, mutex locks, and semaphore.
+
+* [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+Semaphore is a technique for managing concurrent processes that utilizes a simple integer value. Semaphores are used to solve critical section problems in the synchronization process. This link also describes the problems that can arise when implementing a semaphore.
+<br>
+
