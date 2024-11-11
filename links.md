@@ -74,3 +74,12 @@ The link contains an overview of what the process synchronization in OS is and h
 Semaphore is a technique for managing concurrent processes that utilizes a simple integer value. Semaphores are used to solve critical section problems in the synchronization process. This link also describes the problems that can arise when implementing a semaphore.
 <br>
 
+### **Week 08**
+* [Linux From Scratch - Wikipedia bahasa Indonesia, ensiklopedia bebas](https://id.wikipedia.org/wiki/Linux_From_Scratch)<br>
+This is a good introduction to understand the concept of Linux From Scratch in Indonesian.
+I couldn't find any better materials in Indonesian to explain the basic concepts of Linux From Scratch.
+I think this might give you a big picture to understand the essentials of Linux From Scratch.
+
+* [LFS 12.2 - How to build Linux From Scratch 12.2 by Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)<br>
+A YouTube playlist video on the Linux From Scratch Guide, which is essential for this week’s assignments.
+<br>
