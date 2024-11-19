@@ -1,6 +1,17 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W09 90 L22 Linux CLI including tar, etc.
+ZCZC W09 180 L21 Trying something
+ZCZC W09 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W09 30 L05 Quiz related including studying
+ZCZC W09 90 L24 Scripting in general.
+ZCZC W09 200 L09 Assignment in General
+ZCZC W09 200 L02 Attended Class
+ZCZC W09 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 180 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W09 90 L81 Listening: Radio, Music, etc.
+ZCZC W09 60 L73 Gaming including Board Games.
 
 ZCZC W08 200 L00 General, etc.
 ZCZC W08 200 L01 SCELE/Discord related
