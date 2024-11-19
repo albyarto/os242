@@ -83,3 +83,14 @@ I think this might give you a big picture to understand the essentials of Linux 
 * [LFS 12.2 - How to build Linux From Scratch 12.2 by Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)<br>
 A YouTube playlist video on the Linux From Scratch Guide, which is essential for this week’s assignments.
 <br>
+
+### **Week 08**
+* [RAID](https://www.javatpoint.com/what-is-raid) <br>
+In this this website, I learned about RAID (Redundant Array of Independent Disks) technique of storing data, which includes levels of RAID and implementation of RAID.
+
+* [BIOS](https://www.youtube.com/watch?v=ncUmWthHrU0) <br>
+This video taught me about BIOS which is a firmware used to perform hardware initialization during the booting process, and to provide runtime services for operating systems and programs.
+
+* [LFS 12.2 - How to build Linux From Scratch 12.2 by Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)<br>
+A YouTube playlist video on the Linux From Scratch Guide, which is essential for this week’s assignments.
+<br>
